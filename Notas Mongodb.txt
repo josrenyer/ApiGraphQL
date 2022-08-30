@@ -1,0 +1,11 @@
+show dbs --- listar las bases de datos
+db --- ver la bases de datos actual
+use nombre--- crear base de datos
+db.dropDatabase()--- eliminar base de data actual
+show collections--- listar las coleccciones
+db.createCollection("nombre de la coleccion")--- crear coleccion
+db.nombredelacoleccion.drop()--- eliminar coleccion
+db.nombredelacoleccion.find()---buscar todo
+db.nombredelacoleccion.find(_id:"3")---buscar _id 3
+db.nombredelacoleccion.findOne()---buscar el primer valor
+db.nombredecoleccion.insert({})---insertar datos a la coleccion
