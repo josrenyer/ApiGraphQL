@@ -4,6 +4,12 @@
 
 El reto consiste en crear una API en GraphQL con Apollo Server, Express, Node y MongoDB. Se busca implementar conceptos de manejo de datos, populación, filtrado y desarrollo de esquemas tanto para GraphQL y MongoDB con Mongoose.
 
+
+## Deploy
+
+[![](https://img.icons8.com/color/48/000000/launched-rocket--v1.png)](https://api-graphql-josrenyer.herokuapp.com/)
+
+
 # Parte 1 - Queries Requeridas
 
 ---
