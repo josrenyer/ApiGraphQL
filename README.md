@@ -7,7 +7,7 @@ El reto consiste en crear una API en GraphQL con Apollo Server, Express, Node y 
 
 ## Deploy
 
-[![](https://img.icons8.com/color/48/000000/launched-rocket--v1.png)](https://api-graphql-josrenyer.herokuapp.com/)
+[![](https://img.icons8.com/color/48/000000/launched-rocket--v1.png)](https://api-graphql-josrenyer.herokuapp.com/graphql) API-Graphql
 
 
 # Parte 1 - Queries Requeridas
